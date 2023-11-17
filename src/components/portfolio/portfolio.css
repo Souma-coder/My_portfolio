@@ -1,0 +1,25 @@
+.portfolio-main-container {
+  width: 35%;
+}
+
+/* .portfolio_container { */
+/* width: 35%; */
+/* margin: 0 auto; */
+/* } */
+
+.portfolio_container img {
+  border-radius: 2rem;
+  width: 100%;
+}
+
+.portfolio_container div {
+  margin-top: 0.6rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.projects-name {
+  margin-bottom: 0.3rem;
+}
